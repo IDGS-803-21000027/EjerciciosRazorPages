@@ -1,0 +1,24 @@
+﻿@page
+@model actividad2.Pages.programa4Model
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Programa 4</title>
+</head>
+<body>
+    <h1>Números Aleatorios Generados:</h1>
+    <ul>
+        @foreach (var numero in Model.numeros)
+        {
+            <li>@numero</li>
+        }
+    </ul>
+
+    <h2>Resultados:</h2>
+    <p>Suma: @Model.suma</p>
+    <p>Promedio: @Model.promedio</p>
+    <p>Moda: @Model.moda</p>
+    <p>Mediana: @Model.mediana</p>
+</body>
+</html>

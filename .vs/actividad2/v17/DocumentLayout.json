@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\OneDrive\\Documents\\UTL\\9noCuatri\\DesarrolloWeb\\actividad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A29575-C07F-4BAB-A29B-B7316400A080}|actividad2\\actividad2.csproj|c:\\users\\eduar\\onedrive\\documents\\utl\\9nocuatri\\desarrolloweb\\actividad2\\actividad2\\pages\\programa3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A29575-C07F-4BAB-A29B-B7316400A080}|actividad2\\actividad2.csproj|solutionrelative:actividad2\\pages\\programa3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A29575-C07F-4BAB-A29B-B7316400A080}|actividad2\\actividad2.csproj|c:\\users\\eduar\\onedrive\\documents\\utl\\9nocuatri\\desarrolloweb\\actividad2\\actividad2\\pages\\programa3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A29575-C07F-4BAB-A29B-B7316400A080}|actividad2\\actividad2.csproj|solutionrelative:actividad2\\pages\\programa3.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A29575-C07F-4BAB-A29B-B7316400A080}|actividad2\\actividad2.csproj|c:\\users\\eduar\\onedrive\\documents\\utl\\9nocuatri\\desarrolloweb\\actividad2\\actividad2\\pages\\programa1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02A29575-C07F-4BAB-A29B-B7316400A080}|actividad2\\actividad2.csproj|solutionrelative:actividad2\\pages\\programa1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "programa1.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documents\\UTL\\9noCuatri\\DesarrolloWeb\\actividad2\\actividad2\\Pages\\programa1.cshtml",
+              "RelativeDocumentMoniker": "actividad2\\Pages\\programa1.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documents\\UTL\\9noCuatri\\DesarrolloWeb\\actividad2\\actividad2\\Pages\\programa1.cshtml",
+              "RelativeToolTip": "actividad2\\Pages\\programa1.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T04:44:32.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "programa3.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documents\\UTL\\9noCuatri\\DesarrolloWeb\\actividad2\\actividad2\\Pages\\programa3.cshtml.cs",
+              "RelativeDocumentMoniker": "actividad2\\Pages\\programa3.cshtml.cs",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documents\\UTL\\9noCuatri\\DesarrolloWeb\\actividad2\\actividad2\\Pages\\programa3.cshtml.cs",
+              "RelativeToolTip": "actividad2\\Pages\\programa3.cshtml.cs",
+              "ViewState": "AQIAACYAAAAAMzMzMzMTwAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T04:43:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "programa3.cshtml",
+              "DocumentMoniker": "C:\\Users\\eduar\\OneDrive\\Documents\\UTL\\9noCuatri\\DesarrolloWeb\\actividad2\\actividad2\\Pages\\programa3.cshtml",
+              "RelativeDocumentMoniker": "actividad2\\Pages\\programa3.cshtml",
+              "ToolTip": "C:\\Users\\eduar\\OneDrive\\Documents\\UTL\\9noCuatri\\DesarrolloWeb\\actividad2\\actividad2\\Pages\\programa3.cshtml",
+              "RelativeToolTip": "actividad2\\Pages\\programa3.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvxIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T02:40:06.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

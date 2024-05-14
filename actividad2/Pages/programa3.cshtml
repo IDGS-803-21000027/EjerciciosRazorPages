@@ -1,0 +1,43 @@
+﻿@page
+@model actividad2.Pages.programa3Model
+@{
+}
+
+<h1>Resolucion de expresion rara</h1>
+<form method="post">
+    <p>Ingresa el valor a: <input type="number" asp-for="a" /></p>
+    <p>Ingresa el valor b: <input type="number" asp-for="b" /></p>
+    <p>Ingresa el valor x: <input type="number" asp-for="x" /></p>
+    <p>Ingresa el valor y: <input type="number" asp-for="y" /></p>
+    <p>Ingresa el valor n: <input type="number" asp-for="n" /></p>
+
+    <p><input type="submit" value="Calcular" /></p>
+    
+    @if (Model.resultados.Count > 0)
+    {
+        <h2>Resultados de cada iteración:</h2>
+        <table>
+            <tr>
+                <th>k</th>
+                <th>Resultado</th>
+            </tr>
+            @for (int i = 0; i < Model.resultados.Count; i++)
+            {
+                <tr>
+                    <td>@i</td>
+                    <td>@Model.resultados[i]</td>
+                </tr>
+            }
+        </table>
+
+        <div>
+            <strong>Suma de todos los resultados de k: @Model.resultados.Sum()</strong>
+        </div>
+    }
+
+    <div>
+        <strong>(ax + by)^n = @Model.res1 </strong>
+    </div>
+
+
+</form>
